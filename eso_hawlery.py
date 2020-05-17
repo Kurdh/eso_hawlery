@@ -48,16 +48,16 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;39m▒▒▒▒▒▒▒▒RAWAND▒▒▒▒▒▒▒▒
+\033[0;39m▒▒▒▒▒▒▒▒Eso_hawlery▒▒▒▒▒▒▒▒
 \033[0;39m▒▒▄▄▄▒▒▒█▒▒▒▒▄▒▒▒▒▒▒▒▒
 \033[0;39m▒█▀█▀█▒█▀█▒▒█▀█▒▄███▄▒
 \033[0;39m░█▀█▀█░█▀██░█▀█░█▄█▄█░
 \033[0;39m░█▀█▀█░█▀████▀█░█▄█▄█░
 \033[0;39m████████▀█████████████
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36m😂  \033[1;36m : \033[1;31mHACKR•|😎RAWAND😎\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mRAWAND  \033[1;33m : \033[1;33m\033[4mRAWAND\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mYou Tube \033[1;32m: \033[1;32m MR RAWAND\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36Instagram  \033[1;36m : \033[1;31mHACKR•|😎eso_work0😎\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33Snapchat  \033[1;33m : \033[1;33m\033[4eso\033[0myhawlery809 \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mYou Tube \033[1;32m: \033[1;32m eso hawlery\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -77,13 +77,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31m Hack Fb By RAWAND[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31m Hack Fb By eso[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY MR RAWAND\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : MR RAWAND\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY eso hawlery\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : eso hawlery\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "MR"
-CorrectPassword = "RAWAND"
+CorrectUsername = "eso"
+CorrectPassword = "hawlery"
 
 loop = 'true'
 while (loop == 'true'):
@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://www.youtube.com/channel/UCwq6RUSe8gO4fUlXxX1HUQA')
+            os.system('xdg-open https://www.youtube.com/channel/UCbcu_PQr2NsI9brqeUCS8tA')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://www.youtube.com/channel/UCwq6RUSe8gO4fUlXxX1HUQA')
+        os.system('xdg-open https://www.youtube.com/channel/UCbcu_PQr2NsI9brqeUCS8tA')
 
 def login():
 	os.system('clear')
@@ -297,10 +297,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;31;48m●💋═RAWAND═RAWAND═RAWAND═RAWAND═RAWAND═◄►💋═RAWAND═RAWAND═RAWAND═RAWAND═RAWAND═●"
+	print "   \033[1;31;48m●💋═ESO═HAWLERY═ESO═HAWLERY═2020═◄►💋═ESO═HAWLERY═ESO═HAWLERY═🛡️═●"
 
 	jalan('                    \033[1;91mTricker start cloning Wait...')
-	print  "  \033[1;36;48m ●💋═RAWAND═RAWAND═RAWAND═RAWAND═RAWAND═◄►💋═RAWAND═RAWAND═RAWAND═RAWAND═RAWAND═●" 
+	print  "  \033[1;36;48m ●💋═instagam═Facebook═tlegram═viber═◄►💋═eso═hawlery═🛡️═💔═🖤═●" 
 
 	def main(arg):
 		global cekpoint,oks
